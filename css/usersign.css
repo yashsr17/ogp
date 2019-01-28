@@ -1,0 +1,26 @@
+.txtbox1{
+        position: fixed;
+        margin-left: 500px;
+        margin-top: 240px;
+        height: 20px;
+        width: 190px;
+        border-right-color: black;
+        border-bottom-color: black;
+    }
+.btn{
+        position: relative;
+        margin-left: 695px;
+        margin-top: 240px;
+        height: 25px;
+        color: black;
+        border-right-color: black;
+        border-bottom-color: black;
+        border-top-color: black;
+        border-left-color: black;
+        background-color: red;
+    }
+.btn:hover{
+        background-color: green;
+    }
+
+<link rel="stylesheet" type="text/css" href="css/usersign.css">

@@ -1,0 +1,40 @@
+.username{
+	position: relative;
+	margin-left:400px;
+	margin-top: -800px;
+}
+.comment{
+
+}
+.btn_s{
+	border: none;
+	color: white;
+        cursor: pointer;
+	    background-color: black;
+		position: fixed;
+		margin-top: -20px;
+		margin-left: 550px;
+		width: 100px;
+		height: 20px;}
+.btn_s:hover {background-color: grey;
+        position: fixed;
+		margin-top: -20px;
+		margin-left: 550px;
+		width: 100px;
+		height: 20px;}
+.alignusername{
+	position: fixed;
+	margin-top: 400px;
+	margin-left: 400px;
+}
+.brrm{
+	border-right-color: white; 
+	border-left-color: white;
+	border-top-color: white;
+	border-bottom-color: black;
+	border-bottom-width: 2px;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	width: 180px; 
+}

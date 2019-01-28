@@ -1,0 +1,65 @@
+body{
+	background-color: grey;
+}
+.percent{
+	position: relative;
+	margin-left: 200px;
+	margin-top: -90px;
+}
+.percent11{
+	position: relative;
+	margin-top: 100px;
+}
+.percent1{
+	position: relative;
+	margin-left: 200px;
+	margin-top: -55px;
+}
+.percet2{
+	position: relative;
+	margin-left: 200px;
+	margin-top: -90px;
+}
+.search{
+	position: fixed;
+	margin-left: 900px;
+	margin-top: 10px;
+}
+.block{
+	position: fixed;
+	background-color: black;
+	margin-top: -10px;
+	margin-left: -10px;
+	height: 70px;
+	width: 1400px;
+}
+.borderma{
+position: relative;
+	background-color: black;
+	margin-left: -10px;
+	margin-top: 10px;
+	height: 5px;
+	width: 1350px;	
+}
+.log{
+	position: fixed;
+	margin-left: 1300px;
+	margin-top: 10px;
+	color: white;
+}
+.btn_s{
+	border: none;
+	color: white;
+        cursor: pointer;
+	    background-color: black;
+		position: fixed;
+		margin-top: -20px;
+		margin-left: 180px;
+		width: 100px;
+		height: 20px;}
+.btn_s:hover {background-color: grey;
+        position: fixed;
+		margin-top: -20px;
+		margin-left: 180px;
+		width: 100px;
+		height: 20px;}

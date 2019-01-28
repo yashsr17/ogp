@@ -1,0 +1,18 @@
+1088:9962262756:Money Theft:Bank money robbery from unofficial site.The site is www.ababab.com. Please fix the issue and my account details of debited amount 20000 by account number 7847942749429.:cybertheft.jpg:cyber theft:600010:20180725:0:0:0:0:0
+4323:9962262756:Drink Drive :One person often drinks and then drives the car. please see this issue. Car number-JK 01 BX 2345 :drinkdrivecase1.jpeg:drink and drive case:5001020:20180725:0:0:0:0:20180917
+2707:9962262756:Dog:I lost my dog please help me find it.:nonmladog.jpeg:dog find:1000292:20180725:1:0:0:0:0
+4680:9962262756:Fire Accident:Recently to near by factory wastage it caught fire in near by place.:fire.jpg:Fire incident due to SUN factory:7001010:20180725:0:0:0:0:20190101
+3183:9962262756:Car Theft:Car robbery is increasing in our area:theftcar.jpg:car theft:3003010:20180725:0:0:0:0:20180917
+4538:9962262756:Money Theft:Bank money robbery from unofficial site.The site is www.ababab.com. Please fix the issue and my account details of debited amount 20000 by account number 7847942749429.:cybertheft.jpg:bank:600010:20180727:0:0:0:0:0
+9209:6789909977:Car accident:bleeding heavily:death.jpg:accident:4001010:20180728:0:0:0:0:0
+3637:6789909977:Car accident:bleeding heavily:death.jpg:accident:4001010:20180728:0:0:0:0:0
+1283:6789909977:Car accident:bleeding heavily:death.jpg:accident:4001010:20180728:0:0:0:0:0
+2000:8953083341:Car accident:one girl died:death.jpg:car accident:7002003:20180802:0:0:0:0:0
+:9962262756:Car accident:bleeding heavily:death.jpg:accident:8001010:20180803:0:0:0:0:0
+8001010Crimebranch030820181524:9962262756:Car accident:bleeding heavily:death.jpg:accident:8001010:20180803:0:0:0:0:0
+8001010030820181525:9962262756:Car accident:bleeding heavily:death.jpg:accident:8001010:20180803:0:0:0:0:0
+8001010030820181525:9962262756:Car accident:bleeding heavily:death.jpg:accident:8001010:20180803:0:0:0:0:0
+800039100820181204:9954474749:Car accident:bleeding heavily:death.jpg:accident:800039:20180810:0:0:0:0:0
+839003100820181820:9962262756:Car accident:bleeding heavily:death.jpg:accident:839003:20180810:0:0:0:0:0
+800039061020182154:9962262756:Car accident:bleeding heavily:death.jpg:accident:800039:20181006:0:0:0:0:0
+800039121020181349:9962262756:Car accident:car:death.jpg:accident:800039:20181012:0:0:0:0:0

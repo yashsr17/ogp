@@ -1,0 +1,13 @@
+800039241020181900:9962262756:Car accident:car:death.jpg:accident:800039:20181024:0:0:0:0:0
+800039251020181728:9962262756:Car accident:bleeding heavily:death.jpg:accident:800039:20181025:0:0:0:0:0
+800039251020181742:9962262756:Car accident:bleeding heavily:death.jpg:accident:800039:20181025:0:0:0:0:0
+800039271020182144:9962262756:Car accident:bleeding heavily:death.jpg:accident:800039:20181027:0:0:0:0:0
+400210281020181247:9962262756:Car accident:bleeding heavily:death.jpg:accident:400210:20181028:0:0:0:0:28 / 11 / 2018
+400210281020181253:9962262756:Car accident:bleeding heavily:death.jpg:accident:400210:20181028:0:0:0:0:28 / 11 / 2018
+400210281020181255:9962262756:Car accident:bleeding heavily:death.jpg:accident:400210:20181028:0:0:0:0:28 / 11 / 2018
+400210281020181255:9962262756:Car accident:bleeding heavily:death.jpg:accident:400210:20181028:0:0:0:0:28 / 11 / 2018
+400210281020181257:9962262756:Car accident:bleeding heavily:death.jpg:accident:400210:20181028:0:0:0:0:28 / 11 / 2018
+400210281020181300:9962262756:Car accident:bleeding heavily:death.jpg:accident:400210:20181028:0:0:0:0:0
+400210281020181300:9962262756:Car accident:bleeding heavily:death.jpg:accident:400210:20181028:0:0:0:0:0
+603002301020181321:9962262756:Car accident:bleeding heavily:death.jpg:accident:603002:20181030:0:0:0:0:0
+603002301020181321:9962262756:Car accident:bleeding heavily:death.jpg:accident:603002:20181030:0:0:0:0:0

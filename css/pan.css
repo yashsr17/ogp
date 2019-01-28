@@ -1,0 +1,57 @@
+.align_img1{
+	position: fixed;
+	margin-left: 100px;
+	margin-top: 100px;
+}
+.borderma{
+position: relative;
+	background-color: black;
+	margin-left: -10px;
+	margin-top: 10px;
+	height: 5px;
+	width: 1350px;	
+}
+.block{
+	position: fixed;
+	background-color: black;
+	margin-top: -10px;
+	margin-left: -10px;
+	height: 70px;
+	width: 1400px;
+}
+.align_name{
+	position: fixed;
+	margin-left: 120px;
+	margin-top: 170px;
+}
+.align_fname{
+	position: fixed;
+	margin-left: 120px;
+	margin-top: 194px;
+}
+.align_date{
+	position: fixed;
+	margin-left: 120px;
+	margin-top: 218px;
+}
+.align_pan{
+	position: fixed;
+	margin-left: 120px;
+	margin-top: 260px;
+}
+.align_img2{
+	position: fixed;
+	margin-left: 120px;
+	margin-top: 280px;
+}
+.align_img3{
+	position: fixed;
+	margin-left: 390px;
+	margin-top: 250px;
+}
+.log{
+	position: fixed;
+	margin-left: 1250px;
+	margin-top: 15px;
+	color: white;
+}

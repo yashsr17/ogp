@@ -1,0 +1,8 @@
+.block{
+	position: fixed;
+	background-color: black;
+	margin-top: -10px;
+	margin-left: -10px;
+	height: 70px;
+	width: 1400px;
+}

@@ -1,0 +1,60 @@
+		div.a {
+			position: fixed;
+			width: 1280px;
+			height: 160px;
+			-ms-transform:rotate(270deg);
+			-webkit-transform: rotate(270deg);
+		}
+		div.b {
+			position: fixed;
+			width: 1400px;
+			height: 160px;
+			-ms-transform:rotate(270deg);
+			-webkit-transform: rotate(270deg);
+		}
+		div.c {
+			position: fixed;
+			width: 1510px;
+			height: 160px;
+			-ms-transform:rotate(270deg);
+			-webkit-transform: rotate(270deg);
+		}
+		div.d {
+			position: fixed;
+			width: 1620px;
+			height: 160px;
+			-ms-transform:rotate(270deg);
+			-webkit-transform: rotate(270deg);
+		}
+		div.e {
+			position: fixed;
+			width: 1730px;
+			height: 160px;
+			-ms-transform:rotate(270deg);
+			-webkit-transform: rotate(270deg);
+		}
+		div.a1{
+			position: fixed;
+			width: 1140px;
+			height: 100px;
+		}
+		div.b1{
+			position: fixed;
+			width: 1250px;
+			height: 100px;
+		}
+		div.c1{
+			position: fixed;
+			width: 1355px;
+			height: 100px;
+		}
+		div.d1{
+			position: fixed;
+			width: 1465px;
+			height: 100px;
+		}
+		div.e1{
+			position: fixed;
+			width: 1575px;
+			height: 100px;
+		}
